@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yoselin</h1>
 <h3 align="center">A passionate frontend developer from Uruguay. Committed to continuous learning and willing to enthusiastically contribute to challenging projects in the field of programming.</h3>
 
-- 📝 I regularly share articles on my linkedin profile [Yoselin Calvetti](Yoselin Calvetti)
+- 📝 I regularly share articles on my linkedin profile https://www.linkedin.com/in/yoselin-calvetti-alaniz/
 
 - 💬 Ask me about **JavaScript, Python and more!**
 
